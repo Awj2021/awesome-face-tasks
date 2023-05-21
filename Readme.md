@@ -2,6 +2,11 @@
 ## Talking-head-generation
 This task could refer to repo: [https://github.com/harlanhong/awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation)
 
+> My Reading
+1. [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/pdf/2304.12995.pdf) [arxiv] [[code]](https://github.com/AIGC-Audio/AudioGPT?utm_source=catalyzex.com)
+
+2. [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation](https://arxiv.org/abs/2305.00787) [arxiv] [[code]](https://genefaceplusplus.github.io/)
+
 ## 3D Face Reconstruction
 1. [Imitator: Personalized Speech-driven 3D Facial Animation](https://balamuruganthambiraja.github.io/Imitator/media/pdf/Imitator__Personalized_speech_driven_3D_facial_animation_arxiv_version.pdf) [arxiv2022] [[Project]](https://balamuruganthambiraja.github.io/Imitator/) 
 
